@@ -1,0 +1,36 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sat Mar 21 11:01:46 2020"
+  rime_version: 1.5.3
+patch:
+  ascii_composer:
+    good_old_caps_lock: true
+    switch_key:
+      Caps_Lock: commit_code
+      Control_L: noop
+      Control_R: noop
+      Eisu_toggle: clear
+      Shift_L: commit_code
+      Shift_R: commit_code
+  menu/page_size: 6
+  schema_list:
+    - {schema: luna_pinyin_simp}
+    - {schema: wubi86}
+    - {schema: luna_pinyin}
+  switcher:
+    abbreviate_options: true
+    caption: "〔切换方案〕"
+    fold_options: true
+    hotkeys:
+      - "Control+grave"
+      - "Control+Shift+grave"
+    option_list_separator: "／"
+    save_options:
+      - full_shape
+      - ascii_punct
+      - simplification
+      - extended_charset
+      - zh_hant
+      - zh_hans

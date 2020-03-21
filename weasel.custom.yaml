@@ -1,0 +1,23 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Thu Mar 19 12:02:38 2020"
+  rime_version: 1.5.3
+patch:
+  "app_options/alacritty.exe":
+    ascii_mode: true
+  "app_options/bash.exe":
+    ascii_mode: true
+  "app_options/cmd.exe":
+    ascii_mode: true
+  "app_options/emacs.exe":
+    ascii_mode: true
+  "app_options/gvim.exe":
+    ascii_mode: true
+  "app_options/powershell.exe":
+    ascii_mode: true
+  "style/color_scheme": so_young
+  "style/font_face": "DejaVu Sans Mono"
+  "style/font_point": 14
+  "style/horizontal": true

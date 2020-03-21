@@ -1,0 +1,13 @@
+﻿#自定义词库
+
+---
+name: luna_pinyin.my
+version: "1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+#自定义短语，中间是tab不是空格
+huanglizhong@polyworks.com.cn	you xiang
+191378450@qq.com	you xiang
+aqua0210@163.com	you xiang

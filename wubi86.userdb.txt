@@ -1,0 +1,49 @@
+# Rime user dictionary
+#@/db_name	wubi86.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	33
+#@/user_id	Alienware Area51 R5
+ag 	七	c=1 d=0.97531 t=33
+amw 	黄	c=1 d=0.904837 t=33
+dd 	大	c=1 d=0.927743 t=33
+g 	一	c=1 d=0.980199 t=33
+ga 	开	c=1 d=0.946485 t=33
+gag 	玒	c=1 d=1 t=33
+gg 	五	c=1 d=0.946485 t=33
+j 	是	c=4 d=3.72089 t=33
+k 	中	c=1 d=0.923116 t=33
+kg 	呈	c=2 d=1.88437 t=33
+khn 	忠	c=1 d=0.918512 t=33
+ko 	咪	c=1 d=0.941765 t=33
+ts 	条	c=1 d=0.985112 t=33
+tt 	笔	c=1 d=0.951229 t=33
+tx 	第	c=1 d=0.97531 t=33
+uuu 	立	c=1 d=0.909373 t=33
+vfyy 	建议	c=1 d=0.99005 t=33
+wq 	你	c=1 d=0.856415 t=33
+wtlt 	傻	c=1 d=0.932394 t=33
+xhga 	引开	c=1 d=0.918512 t=33
+ye 	衣	c=1 d=0.927743 t=33
+yi 	就	c=1 d=0.932394 t=33
+encamuu 	黄立	c=0 d=0.0909373 t=33
+encddwt 	大傻	c=0 d=0.0932394 t=33
+encggts 	一条	c=0 d=0.0985112 t=33
+encggtt 	五笔	c=0 d=0.0951229 t=33
+encgtvy 	一条建议	c=0 d=0.099005 t=33
+encjdwt 	是大傻	c=0 d=0.0932394 t=33
+encjgdd 	是大	c=0 d=0.0927743 t=33
+enckaga 	呈七玒	c=0 d=0.1 t=33
+enckgag 	呈七	c=1 d=0.995012 t=33
+enckgka 	咪开呈七	c=0 d=0.0995012 t=33
+enckhjg 	忠是	c=0 d=0.0923116 t=33
+enckhye 	中衣	c=1 d=0.937067 t=33
+enckjdd 	忠是大	c=0 d=0.0927743 t=33
+enckjdw 	忠是大傻	c=0 d=0.0932394 t=33
+enckoga 	咪开	c=1 d=0.965605 t=33
+enckykg 	中衣咪开	c=0 d=0.0965605 t=33
+enctgts 	第一条	c=0 d=0.0985112 t=33
+enctvyy 	条建议	c=0 d=0.099005 t=33
+enctxgg 	第一	c=0 d=0.0980199 t=33
+encwqjg 	你是	c=0 d=0.0860708 t=33
+encyijg 	就是	c=0 d=0.0937067 t=33
